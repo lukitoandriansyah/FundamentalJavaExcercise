@@ -2,7 +2,7 @@
 <project version="4">
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="nawadata-logic-test" options="--add-exports java.base/jdk.internal.icu.lang=ALL-UNNAMED" />
+      <module name="FundamentalJavaExcercise" options="--add-exports java.base/jdk.internal.icu.lang=ALL-UNNAMED" />
     </option>
   </component>
 </project>
