@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="tagtraum.ffsampledsp.complete" type="repository">
+    <properties maven-id="com.tagtraum:ffsampledsp-complete:0.9.32" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ffsampledsp-complete-0.9.32.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib/ffmpeg-4.0.0-sources.tar.bz2" />
+    </SOURCES>
+  </library>
+</component>

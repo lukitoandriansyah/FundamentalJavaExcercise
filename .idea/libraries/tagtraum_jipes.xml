@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="tagtraum.jipes" type="repository">
+    <properties maven-id="com.tagtraum:jipes:0.9.17" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jipes-0.9.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

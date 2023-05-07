@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="jAudio">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/jAudio" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Downloads/jAudio/help/en_US/jaudio10/javadoc" />
+      <root url="file://$USER_HOME$/Downloads/jAudio/jAudio/extras/help/en_US/jaudio10/javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/jAudio/jAudio/src" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/jAudio" recursive="false" />
+  </library>
+</component>

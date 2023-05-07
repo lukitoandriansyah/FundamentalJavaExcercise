@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="tagtraum.jipesfft.complete" type="repository">
+    <properties maven-id="com.tagtraum:jipesfft-complete:0.9.8" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jipesfft-complete-0.9.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
